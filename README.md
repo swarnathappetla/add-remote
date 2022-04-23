@@ -1,0 +1,2 @@
+# add-remote
+add origin
